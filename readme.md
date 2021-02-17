@@ -10,4 +10,4 @@ TORRENT
 TORRENT V2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/whxxyu/7a452a51398a703e86bfe895733c6e4b/torrent-to-google-drive-downloader-v2.ipynb)
 
-REMOTE URL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/whxxyu/9342dd74540fdfff09e857cb6daf7a93/any-url-transfer-to-google-drive.ipynb)
+REMOTE URL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/whxxyu/907cd1f5c09dd4e11213311391f8e24d/any-url-transfer-to-google-drive.ipynb)
