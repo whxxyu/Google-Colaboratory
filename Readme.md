@@ -8,4 +8,5 @@ TORRENT
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/whxxyu/Google-Colaboratory/blob/main/Torrent_To_Google_Drive_Downloader.ipynb)
 
 TORRENT V2
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/whxxyu/Google-Colaboratory/blob/main/Torrent_To_Google_Drive_Downloader_v2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://https://colab.research.google.com/github.com/whxxyu/Google-Colaboratory/blob/main/Torrent_To_Google_Drive_Downloader_v2.ipynb)
+
