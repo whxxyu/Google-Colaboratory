@@ -11,4 +11,4 @@ Downloader Google Drive
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/whxxyu/2514a4a45fd16650382301b671fed7f2/torrent-to-google-drive-downloader-v2.ipynb)
 
 4. REMOTE URL
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/whxxyu/43600aed6950c93e7e7f79c9861eb7bc/any-url-transfer-to-google-drive.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/whxxyu/425eb42c86c44a46dae6790080904169/any-url-transfer-to-google-drive.ipynb)
